@@ -12,7 +12,7 @@ mongoose.connect("mongodb+srv://carlos1996:carlos1996@cluster0.iu4xmlp.mongodb.n
 
 let userDocument = new User({
     login: "Fanel",
-    password: "holamundo271966"
+    password: "hola"
 })
 
 
